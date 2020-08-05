@@ -1,4 +1,4 @@
-# Server on local host to run your static website
+# Node Server on local host to run your static website
 
 ### How to use it
 Just add this in the 'src/' folder:
