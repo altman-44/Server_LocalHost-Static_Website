@@ -12,6 +12,7 @@ app.set('port', 3000 || 4000);
 
 // Routes
 app.get('/', (req, res) => {
+    // HTML File which will be
     res.sendFile(path.join(__dirname, 'views/index.html'));
 })
 
